@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MediaManagementApi.props" />
+</Project>
